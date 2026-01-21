@@ -19,7 +19,7 @@ Overview
 
 
 
-CHANGELOG
+Changelog
 ----------------------
 
 [0.0.1] - 20, Jan 2026
